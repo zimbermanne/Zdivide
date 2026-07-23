@@ -1,0 +1,6 @@
+{
+  "name": "DualScreen Android",
+  "description": "Feasibility proof of concept for display synchronization and split-screen rendering across dual Android devices over local network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
